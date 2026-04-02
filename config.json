@@ -1,0 +1,33 @@
+{
+  "border-only": false,
+  "random-background": false,
+  "boxes": [
+    {
+      "border-only": true,
+      "name": "top_left_purple",
+      "x": 0,
+      "y": 0,
+      "width": 960,
+      "height": 354,
+      "color": [128, 0, 128, 120]
+    },
+    {
+      "border-only": true,
+      "name": "top_right_red",
+      "x": 1566,
+      "y": 0,
+      "width": 354,
+      "height": 294,
+      "color": [255, 0, 0, 120]
+    },
+    {
+      "border-only": true,
+      "name": "bottom_green",
+      "x": 960,
+      "y": 548,
+      "width": 192,
+      "height": 452,
+      "color": [0, 255, 0, 120]
+    }
+  ]
+}
